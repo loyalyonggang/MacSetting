@@ -1,2 +1,6 @@
 # MacSetting
-My Mac setting
+　　本项目用于 MAC 开发的配置和使用，随时记下自己安装配置的中的遇到的问题以及解决方案，以防忘记。如大家有更好的方案，敬请不吝斧正。
+
+## 终端配置
+　　终端配置采用 Homebrew + iterm2 ，zsh 的配置采用oh-my-zsh。
+
